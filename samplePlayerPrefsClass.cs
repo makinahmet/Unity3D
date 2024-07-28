@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public static class ambPlayerPrefs
+public static class samplePlayerPrefsClass
 {
     public static string[] drivingModes = {"buttonControl", "wheelControl"};
 
